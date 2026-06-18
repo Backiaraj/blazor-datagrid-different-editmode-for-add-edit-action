@@ -1,7 +1,6 @@
 using Grid_EditMode.Components;
 using Syncfusion.Blazor;
 
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1JHaF1cXmhOYVdpR2NbeU5xdF9FYFZVR2YuP1ZhSXxVdkNiUX9YcXFURmFUWEZ9XEE=");
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
