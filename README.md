@@ -1,6 +1,6 @@
 # Blazor DataGrid — Different Edit Modes for Add and Edit Actions
 
-A sample Blazor application demonstrating how to dynamically switch between different edit modes (Dialog vs. Inline) when adding or editing records in the [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component.
+A sample Blazor application demonstrating how to dynamically switch between different edit modes (Dialog vs Inline) when adding or editing records in the [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component.
 
 ## Overview
 
