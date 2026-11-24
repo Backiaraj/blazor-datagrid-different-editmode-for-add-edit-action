@@ -58,6 +58,6 @@ dotnet run
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/dialog-editing
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/data-grid/dialog-editing
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/dialog-editing?theme=fluent2
